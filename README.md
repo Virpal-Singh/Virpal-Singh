@@ -28,8 +28,16 @@
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176572/Screenshot_2026-02-15_225041_oynyjw.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px; border-radius: 12px;"
+    style="max-width: 1000px;"
   />
 </p>
-
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176917/Screenshot_2026-02-15_230206_x7uavg.png
+"
+    alt="Virpal Sinh – Full Stack Developer"
+    width="100%"
+    style="max-width: 1000px;"
+  />
+</p>
 
