@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Virpal Sinh</h1>
 <h3 align="center">Full-Stack Developer (Backend-Focused) | Freelancer Helping startups and businesses build reliable, secure, and scalable web applications with a backend-first MERN approach.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virpal-singh&label=Profile%20views&color=0e75b6&style=flat" alt="virpal-singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virpal-singh" alt="virpal-singh" /></a> </p>
 
 - 🔭 I’m currently working on [AAFinance](https://aa-finance.vercel.app/)
 
