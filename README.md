@@ -28,55 +28,55 @@
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176572/Screenshot_2026-02-15_225041_oynyjw.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
   <img 
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176917/Screenshot_2026-02-15_230206_x7uavg.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
   <img 
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176915/Screenshot_2026-02-15_230229_xcms4t.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
   <img 
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176914/Screenshot_2026-02-15_230300_ay5oc4.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
   <img 
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176916/Screenshot_2026-02-15_230317_cnweme.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
   <img 
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176917/Screenshot_2026-02-15_230350_uwbgaj.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
   <img 
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176916/Screenshot_2026-02-15_230408_uymepw.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
   <img 
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176918/Screenshot_2026-02-15_230421_zrzn1h.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
   <img 
     src="https://res.cloudinary.com/dvb22x1po/image/upload/v1771176918/Screenshot_2026-02-15_230433_ez57es.png"
     alt="Virpal Sinh – Full Stack Developer"
     width="100%"
-    style="max-width: 1000px;"
+    style="max-width: 1000px; display:block;"
   />
 </div>
 
